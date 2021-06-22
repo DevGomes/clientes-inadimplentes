@@ -1,0 +1,153 @@
+
+[
+	{
+		"nomeCliente": "Rafael Victor Julio da Rocha",
+		"desde": "2020-10-19",
+		"valor": 505.26
+	},
+	{
+		"nomeCliente": "Ester Alícia Vieira",
+		"desde":"2020-10-19",
+		"valor": 272.10
+	},
+	{
+		"nomeCliente": "Elza Simone Rebeca Ramos",
+		"desde": "2020-11-13",
+		"valor": 307.21
+	},
+	{
+		"nomeCliente": "Silvana Cristiane Evelyn Viana",
+		"desde": "2020-10-20",
+		"valor": 810.88
+	},
+	{
+		"nomeCliente": "Benedita Ayla Priscila das Neves",
+		"desde": "2020-11-13",
+		"valor": 835.52
+	},
+	{
+		"nomeCliente": "Amanda Gabriela Novaes",
+		"desde": "2020-05-30",
+		"valor": 215.65
+	},
+	{
+		"nomeCliente": "Helena Hadassa Natália Mendes",
+		"desde": "2020-05-30",
+		"valor": 288
+	},
+	{
+		"nomeCliente": "Antônia Heloisa da Costa",
+		"desde": "2020-09-16",
+		"valor": 134
+	},
+	{
+		"nomeCliente": "Gustavo Mateus Geraldo Barbosa",
+		"desde": "2020-10-27",
+		"valor": 377
+	},
+	{
+		"nomeCliente": "Anderson Edson Henry Pereira",
+		"desde": "2020-10-16",
+		"valor": 581
+	},
+	{
+		"nomeCliente": "Stefany Evelyn Gomes",
+		"desde": "2020-10-07",
+		"valor": 173
+	},
+	{
+		"nomeCliente": "Brenda Emanuelly Camila Assunção",
+		"desde": "2020-2-22",
+		"valor": 237
+	},
+	{
+		"nomeCliente": "Regina Bruna Ribeiro",
+		"desde": "2020-08-07",
+		"valor": 804
+	},
+	{
+		"nomeCliente": "Lorenzo Yuri Barbosa",
+		"desde": "2018-01-23",
+		"valor": 247
+	},
+	{
+		"nomeCliente": "Nair Patrícia da Cunha",
+		"desde": "2019-08-21",
+		"valor": 698
+	},
+	{
+		"nomeCliente": "Isadora Fernanda Rebeca da Rocha",
+		"desde":"2017-03-12",
+		"valor": 576.56
+	},
+	{
+		"nomeCliente": "Nathan Eduardo Matheus Caldeira",
+		"desde": "2019-05-26",
+		"valor": 289.38
+	},
+	{
+		"nomeCliente": "Alícia Letícia Raimunda da Mota",
+		"desde": "2019-10-11",
+		"valor": 522.17
+	},
+	{
+		"nomeCliente": "Cláudio Leonardo Victor Caldeira",
+		"desde": "2020-10-27",
+		"valor": 194.12
+	},
+	{
+		"nomeCliente": "Henry Elias Sérgio Rezende",
+		"desde": "2020-10-27",
+		"valor": 936.91
+	},
+	{
+		"nomeCliente": "Oliver José Souza",
+		"desde": "2020-10-27",
+		"valor": 333.61
+	},
+	{
+		"nomeCliente": "José Luan André Bernardes",
+		"desde": "2020-10-27",
+		"valor": 360.79
+	},
+	{
+		"nomeCliente": "Luana Catarina Fernandes",
+		"desde": "2020-10-27",
+		"valor": 211.99
+	},
+	{
+		"nomeCliente": "Hadassa Stella Lúcia da Rocha",
+		"desde": "2020-10-27",
+		"valor": 972
+	},
+	{
+		"nomeCliente": "Sônia Maya Ana Rodrigues",
+		"desde": "2020-10-27",
+		"valor": 477.42
+	},
+	{
+		"nomeCliente": "Elaine Alessandra Nascimento",
+		"desde": "2020-10-27",
+		"valor": 487.68
+	},
+	{
+		"nomeCliente": "Allana Yasmin Luiza Moraes",
+		"desde": "2016-11-09",
+		"valor": 323.29
+	},
+	{
+		"nomeCliente": "Henrique Ian da Cunha",
+		"desde": "2020-10-26",
+		"valor": 944.33
+	},
+	{
+		"nomeCliente": "Vinicius Filipe da Rosa",
+		"desde": "2020-10-29",
+		"valor": 811.19
+	},
+	{
+		"nomeCliente": "Rafael Calebe Rezende",
+		"desde": "2020-10-22",
+		"valor": 883.27
+	}
+]
